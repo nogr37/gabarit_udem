@@ -18,7 +18,7 @@ format:
       \setstretch{2}
       \pagestyle{empty}
       \newcommand{\titretravail}{Titre}
-      \newcommand{\auteur}{Nom de l'auteur}
+      \newcommand{\auteur}{Noémie Grill}
       \newcommand{\auteurid}{Ni de l'auteur}
       \newcommand{\cours}{Nom du cours}
       \newcommand{\coursnumero}{Numero du cours}
